@@ -1,1 +1,2 @@
-# PixelGuard
+# PixelGuard: Simple Image Encryption Tool
+PixelGuard is a lightweight image encryption tool that secures images through pixel manipulation techniques. This tool allows users to encrypt and decrypt images by altering pixel values with basic arithmetic operations, such as addition or subtraction using a key. It's perfect for educational purposes and introductory projects on image processing and encryption.
