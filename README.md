@@ -8,8 +8,8 @@ PixelGuard is a lightweight image encryption tool that secures images through pi
 # How It Works:
 * Encryption: Adjusts pixel values with a specified key, keeping values within valid RGB ranges.
 * Decryption: Reverses the pixel value adjustment using the same key to retrieve the original image.
-Usage:
-# Clone the repository.
+# Usage:
+* Clone the repository.
 * Install required dependencies with pip install Pillow.
 * Use the encrypt_image() function to encrypt your image.
 * Use the decrypt_image() function to decrypt your encrypted image.
